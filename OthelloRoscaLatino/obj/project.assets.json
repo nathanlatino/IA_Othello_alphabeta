@@ -180,19 +180,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Nathan\\.nuget\\packages\\": {}
+    "C:\\Users\\nath\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Nathan\\Documents\\Hes\\3Annee\\IA\\IA_Othello_alphabeta\\OthelloRoscaLatino\\OthelloRoscaLatino\\OthelloRoscaLatino.csproj",
+      "projectUniqueName": "C:\\Users\\nath\\Documents\\3annee\\ia\\ia_othello\\IA_Othello_alphabeta\\OthelloRoscaLatino\\OthelloRoscaLatino.csproj",
       "projectName": "OthelloRoscaLatino",
-      "projectPath": "F:\\Nathan\\Documents\\Hes\\3Annee\\IA\\IA_Othello_alphabeta\\OthelloRoscaLatino\\OthelloRoscaLatino\\OthelloRoscaLatino.csproj",
-      "packagesPath": "C:\\Users\\Nathan\\.nuget\\packages\\",
-      "outputPath": "F:\\Nathan\\Documents\\Hes\\3Annee\\IA\\IA_Othello_alphabeta\\OthelloRoscaLatino\\OthelloRoscaLatino\\obj\\",
+      "projectPath": "C:\\Users\\nath\\Documents\\3annee\\ia\\ia_othello\\IA_Othello_alphabeta\\OthelloRoscaLatino\\OthelloRoscaLatino.csproj",
+      "packagesPath": "C:\\Users\\nath\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nath\\Documents\\3annee\\ia\\ia_othello\\IA_Othello_alphabeta\\OthelloRoscaLatino\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Nathan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\nath\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

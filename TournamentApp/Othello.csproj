@@ -36,6 +36,10 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="ArcOthelloRef, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\ArcOthelloRef.dll</HintPath>
+    </Reference>
     <Reference Include="IPlayable">
       <HintPath>..\OthelloRoscaLatino\IPlayable.dll</HintPath>
     </Reference>
@@ -112,10 +116,6 @@
     <ProjectReference Include="..\OthelloRoscaLatino\OthelloRoscaLatino.csproj">
       <Project>{81a80af3-f6b3-4f95-84f2-1c1cd38ada18}</Project>
       <Name>OthelloRoscaLatino</Name>
-    </ProjectReference>
-    <ProjectReference Include="ControllerArcOthello\ControllerOthello.csproj">
-      <Project>{cf774232-1cf7-48aa-8780-59c0204c33a2}</Project>
-      <Name>ControllerOthello</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
