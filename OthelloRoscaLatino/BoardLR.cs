@@ -29,7 +29,7 @@ namespace Latino.Rosca
         /// </summary>
         public BoardLR()
         {
-            this.name = "\u03A9 Latino & Rosca \u03A9";
+            this.name = "\u03A9 Latino & Rosca las \u03A9";
             width = 9;
             height = 7;
             game = new int[width, height];

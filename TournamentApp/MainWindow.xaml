@@ -35,13 +35,19 @@
                 <Grid.RowDefinitions>
                     <RowDefinition Height="40"/>
                     <RowDefinition Height="5*"/>
+                    <RowDefinition Height="30"/>
                     <RowDefinition Height="*"/>
                 </Grid.RowDefinitions>
                 <Label x:Name="turn" Content="{Binding CurrentTurn, UpdateSourceTrigger=PropertyChanged}" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="24" Grid.Column="0" Grid.ColumnSpan="3" Grid.Row="0" FontWeight="Bold" />
                 <Label HorizontalAlignment="Center"  FontSize="20" x:Name="team1">TEAM 1 NAME</Label>
-                <ListBox x:Name="lbIABlack" SelectionChanged="lbIABlack_SelectionChanged"  Grid.Row="2" Grid.Column="0" Height="auto"></ListBox>
-                <ListBox  x:Name="lbIAWhite" SelectionChanged="lbIAWhite_SelectionChanged" Grid.Row="2" Grid.Column="2" Height="auto"></ListBox>
-                <Slider x:Name="gameSpeed" ValueChanged="gameSpeed_ValueChanged" Minimum="100" Maximum="5000" Grid.Row="2" Grid.Column="1" HorizontalAlignment="Stretch" TickFrequency="100" ></Slider>
+                <ListBox x:Name="lbIABlack" SelectionChanged="lbIABlack_SelectionChanged"  Grid.Row="3" Grid.Column="0" Height="auto"></ListBox>
+                <ListBox  x:Name="lbIAWhite" SelectionChanged="lbIAWhite_SelectionChanged" Grid.Row="3" Grid.Column="2" Height="auto"></ListBox>
+                <StackPanel Orientation="Horizontal" Grid.Column="1" Grid.Row="2">
+                    <Button x:Name="btnStart" Grid.Column="1" Grid.Row="2" Content="Start" Click="MenuStartGame_Click" Width="200"/>
+                    <Button x:Name="btnReset" Grid.Column="1" Grid.Row="2" Content="Reset" Click="MenuResetGame_Click" Width="200"/>
+                </StackPanel>
+                
+                <Slider x:Name="gameSpeed" ValueChanged="gameSpeed_ValueChanged" Minimum="100" Maximum="5000" Grid.Row="3" Grid.Column="1" HorizontalAlignment="Stretch" TickFrequency="100" ></Slider>
                 <Label HorizontalAlignment="Center" FontSize="20" x:Name="team2" Grid.Column="2">TEAM 2 NAME</Label>
                 <Border BorderBrush="Black" BorderThickness="0" HorizontalAlignment="Right" VerticalAlignment="Top"  Height="400" Width="335" Grid.Column="2" Grid.Row="1">
                     <Grid Margin="10">

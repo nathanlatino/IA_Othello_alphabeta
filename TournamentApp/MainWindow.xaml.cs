@@ -249,16 +249,7 @@ namespace Othello
 
 
             mainTimer.Stop();
-
-            if (System.Windows.MessageBox.Show($"{winner} has won !\n Replay ?", "Question", MessageBoxButton.YesNo, MessageBoxImage.Warning) == MessageBoxResult.No)
-            {
-
-                System.Windows.Application.Current.Shutdown();
-            }
-            else
-            {
-                RestartGame();
-            }
+            RestartGame();
         }
 
         /// <summary>
@@ -690,12 +681,12 @@ namespace Othello
         {
             System.Windows.MessageBox.Show(@"OTHELLO IA PLAYER TOURNAMENT APP (HE-ARC 2017)
 
-The IA must implement the IPlayable interface and be in the executable directory
-1. Find IA will load all OthelloIA.dll assemblies
-2. Select two IA (one for each player) from the populated list
-3. Start game 
+            The IA must implement the IPlayable interface and be in the executable directory
+            1. Find IA will load all OthelloIA.dll assemblies
+            2. Select two IA (one for each player) from the populated list
+            3. Start game 
 
-a slider is available at the bottom to slow down(100-5000ms) the game if required");
+            a slider is available at the bottom to slow down(100-5000ms) the game if required");
         }
     }
 }
