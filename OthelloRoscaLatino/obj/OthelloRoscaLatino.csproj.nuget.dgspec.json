@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nath\\Documents\\3annee\\ia\\ia_othello\\IA_Othello_alphabeta\\OthelloRoscaLatino\\OthelloRoscaLatino.csproj": {}
+    "C:\\Users\\nath\\Documents\\3annee\\ia\\test\\IA_Othello_alphabeta\\OthelloRoscaLatino\\OthelloRoscaLatino.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nath\\Documents\\3annee\\ia\\ia_othello\\IA_Othello_alphabeta\\OthelloRoscaLatino\\OthelloRoscaLatino.csproj": {
+    "C:\\Users\\nath\\Documents\\3annee\\ia\\test\\IA_Othello_alphabeta\\OthelloRoscaLatino\\OthelloRoscaLatino.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nath\\Documents\\3annee\\ia\\ia_othello\\IA_Othello_alphabeta\\OthelloRoscaLatino\\OthelloRoscaLatino.csproj",
+        "projectUniqueName": "C:\\Users\\nath\\Documents\\3annee\\ia\\test\\IA_Othello_alphabeta\\OthelloRoscaLatino\\OthelloRoscaLatino.csproj",
         "projectName": "OthelloRoscaLatino",
-        "projectPath": "C:\\Users\\nath\\Documents\\3annee\\ia\\ia_othello\\IA_Othello_alphabeta\\OthelloRoscaLatino\\OthelloRoscaLatino.csproj",
+        "projectPath": "C:\\Users\\nath\\Documents\\3annee\\ia\\test\\IA_Othello_alphabeta\\OthelloRoscaLatino\\OthelloRoscaLatino.csproj",
         "packagesPath": "C:\\Users\\nath\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nath\\Documents\\3annee\\ia\\ia_othello\\IA_Othello_alphabeta\\OthelloRoscaLatino\\obj\\",
+        "outputPath": "C:\\Users\\nath\\Documents\\3annee\\ia\\test\\IA_Othello_alphabeta\\OthelloRoscaLatino\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -18,3 +18,13 @@ C:\Users\nath\Documents\3annee\ia\ia_othello\IA_Othello_alphabeta\OthelloRoscaLa
 C:\Users\nath\Documents\3annee\ia\ia_othello\IA_Othello_alphabeta\OthelloRoscaLatino\obj\Debug\netstandard2.0\OthelloRoscaLatino.csproj.CopyComplete
 C:\Users\nath\Documents\3annee\ia\ia_othello\IA_Othello_alphabeta\OthelloRoscaLatino\obj\Debug\netstandard2.0\OthelloRoscaLatino.dll
 C:\Users\nath\Documents\3annee\ia\ia_othello\IA_Othello_alphabeta\OthelloRoscaLatino\obj\Debug\netstandard2.0\OthelloRoscaLatino.pdb
+C:\Users\nath\Documents\3annee\ia\test\IA_Othello_alphabeta\OthelloRoscaLatino\bin\Debug\netstandard2.0\OthelloRoscaLatino.deps.json
+C:\Users\nath\Documents\3annee\ia\test\IA_Othello_alphabeta\OthelloRoscaLatino\bin\Debug\netstandard2.0\OthelloRoscaLatino.dll
+C:\Users\nath\Documents\3annee\ia\test\IA_Othello_alphabeta\OthelloRoscaLatino\bin\Debug\netstandard2.0\OthelloRoscaLatino.pdb
+C:\Users\nath\Documents\3annee\ia\test\IA_Othello_alphabeta\OthelloRoscaLatino\bin\Debug\netstandard2.0\IPlayable.dll
+C:\Users\nath\Documents\3annee\ia\test\IA_Othello_alphabeta\OthelloRoscaLatino\obj\Debug\netstandard2.0\OthelloRoscaLatino.csprojAssemblyReference.cache
+C:\Users\nath\Documents\3annee\ia\test\IA_Othello_alphabeta\OthelloRoscaLatino\obj\Debug\netstandard2.0\OthelloRoscaLatino.AssemblyInfoInputs.cache
+C:\Users\nath\Documents\3annee\ia\test\IA_Othello_alphabeta\OthelloRoscaLatino\obj\Debug\netstandard2.0\OthelloRoscaLatino.AssemblyInfo.cs
+C:\Users\nath\Documents\3annee\ia\test\IA_Othello_alphabeta\OthelloRoscaLatino\obj\Debug\netstandard2.0\OthelloRoscaLatino.csproj.CopyComplete
+C:\Users\nath\Documents\3annee\ia\test\IA_Othello_alphabeta\OthelloRoscaLatino\obj\Debug\netstandard2.0\OthelloRoscaLatino.dll
+C:\Users\nath\Documents\3annee\ia\test\IA_Othello_alphabeta\OthelloRoscaLatino\obj\Debug\netstandard2.0\OthelloRoscaLatino.pdb
