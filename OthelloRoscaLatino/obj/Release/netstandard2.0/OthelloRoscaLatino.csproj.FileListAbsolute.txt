@@ -1,0 +1,10 @@
+F:\Nathan\Documents\Hes\3Annee\IA\IA_Othello_alphabeta\OthelloRoscaLatino\OthelloRoscaLatino\bin\Release\netstandard2.0\OthelloRoscaLatino.deps.json
+F:\Nathan\Documents\Hes\3Annee\IA\IA_Othello_alphabeta\OthelloRoscaLatino\OthelloRoscaLatino\bin\Release\netstandard2.0\OthelloRoscaLatino.dll
+F:\Nathan\Documents\Hes\3Annee\IA\IA_Othello_alphabeta\OthelloRoscaLatino\OthelloRoscaLatino\bin\Release\netstandard2.0\OthelloRoscaLatino.pdb
+F:\Nathan\Documents\Hes\3Annee\IA\IA_Othello_alphabeta\OthelloRoscaLatino\OthelloRoscaLatino\bin\Release\netstandard2.0\IPlayable.dll
+F:\Nathan\Documents\Hes\3Annee\IA\IA_Othello_alphabeta\OthelloRoscaLatino\OthelloRoscaLatino\obj\Release\netstandard2.0\OthelloRoscaLatino.csprojAssemblyReference.cache
+F:\Nathan\Documents\Hes\3Annee\IA\IA_Othello_alphabeta\OthelloRoscaLatino\OthelloRoscaLatino\obj\Release\netstandard2.0\OthelloRoscaLatino.AssemblyInfoInputs.cache
+F:\Nathan\Documents\Hes\3Annee\IA\IA_Othello_alphabeta\OthelloRoscaLatino\OthelloRoscaLatino\obj\Release\netstandard2.0\OthelloRoscaLatino.AssemblyInfo.cs
+F:\Nathan\Documents\Hes\3Annee\IA\IA_Othello_alphabeta\OthelloRoscaLatino\OthelloRoscaLatino\obj\Release\netstandard2.0\OthelloRoscaLatino.csproj.CopyComplete
+F:\Nathan\Documents\Hes\3Annee\IA\IA_Othello_alphabeta\OthelloRoscaLatino\OthelloRoscaLatino\obj\Release\netstandard2.0\OthelloRoscaLatino.dll
+F:\Nathan\Documents\Hes\3Annee\IA\IA_Othello_alphabeta\OthelloRoscaLatino\OthelloRoscaLatino\obj\Release\netstandard2.0\OthelloRoscaLatino.pdb
